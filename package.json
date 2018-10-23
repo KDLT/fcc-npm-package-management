@@ -1,6 +1,7 @@
 {
 	"author": "kba",
 	"name": "fcc-learn-npm-package-json",
+  "description": "learn backend",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,7 +11,7 @@
 	},
 	"engines": {
 		"node": "8.11.2"
-	},
+	},  
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
